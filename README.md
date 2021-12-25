@@ -1,2 +1,2 @@
-# Scrimba-React-forms-ej-1
-Created with CodeSandbox
+# Scrimba-React-forms-ej-4-textarea
+![captura](https://i.imgur.com/qlDdxFE.png)
